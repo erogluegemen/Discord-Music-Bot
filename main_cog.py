@@ -27,17 +27,35 @@ Müzik Komutları:
 
 
 
-
     @commands.command(name="help", help="Bütün komutları gösterir", pass_context=True)
     async def help(self, ctx):
-        #Her kanala help mesajı basmaması için yanlışlıkla bulduğum çözüm.Nasıl çalışıyor anlamadım ama YOLO.
-        self.channel = commands.get_channel(782236647239450644)
-        await self.channel.send(self.help_message)
+        await ctx.send(self.help_message)
+
+    async def send_to_all(self, msg):
+        if text_channel in self.text_channel_list:
+            self.channel = commands.get_channel(891700345997262919)
+            #ÖNEMLİ !!!!! yukarıdaki metin kanalı benim serverimdeki metin kanalının idsi siz de kendinizinkini yapmanız lazım.
+            #get_channel kısmında mesajın yazılmasını istediğiniz kanalın id sini kopyalayın
+            await self.channel.send(self.help_message)
+
+
+    #EĞER HER KANAL IDSINI ALAMADIYSANIZ YA DA MESAJIN HER METIN KANALINA GİTMESİNİ İSTİYORSANIZ:
+    #YUKARIDAKİ KOD BLOĞUNU SİLİP AŞAĞIDAKİ KOD BLOĞUNU AKTİVE EDİN
+
+    # @commands.command(name="help", help="Bütün komutları gösterir")
+    # async def help(self, ctx):
+    #     await ctx.send(self.help_message)
+    #
+    # async def send_to_all(self, msg):
+    #     for text_channel in self.text_channel_list:
+    #         await text_channel.send(msg)
 
 
     @commands.command(name="disconnect", help="Serverdan ayrılır", pass_context=True)
     async def disconnect(self, ctx):
         await ctx.voice_client.disconnect()
+
+
 
 
 
