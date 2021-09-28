@@ -92,7 +92,7 @@ class music_cog(commands.Cog):
             await ctx.send("Sırada hiç müzik yok!")
 
     @commands.command(name="skip", help="Çalınmakta olan şarkıyı atlar")
-    async def skip(self):
+    async def skip(self,ctx):
         if self.vc != "" and self.vc:
             self.vc.stop()
             # varsa sıradaki oynamaya çalışsın
