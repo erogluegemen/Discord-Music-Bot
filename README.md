@@ -50,4 +50,11 @@
 ### Geliştirme Sırasında Bir Anı <br>
 <hr>
 Tarih 18.09.2021 Saat gecenin 2.08'i.Botu durmadan teste sokuyorum.Test kanalında milyon milyar tane <b>-play</b> komutu<br>(o zamanlar -p değil -playdi komut). Birden bot ses kanalına katıldı ve ilk çaldığı şarkı <b><i>"Sezen Aksu-Küçüğüm"</i></b> oldu.Bot bağıra bağıra "Küçüğüm, daha çok küçüğüm bu yüzden bütün hatalarım" diyodu.Aşırı mutlu olmuştum.Duygulana duygulana kod yazmıştım.Bu da böyle bi anıydı.
+<hr>
+
+
+
+### Fotoğraflar <br>
+![help](https://user-images.githubusercontent.com/30879498/156932878-7a7966c0-6a72-4d2b-be06-f54f31ff563a.png)
+![lyrics](https://user-images.githubusercontent.com/30879498/156932881-3ba6e0d4-bbf1-4ca7-a855-6c48b0f53719.png)
 
