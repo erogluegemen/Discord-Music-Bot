@@ -1,13 +1,25 @@
 import discord
 from discord.ext import commands
+
 from main_cog import main_cog
 from music_cog import music_cog
+from messages_cog import messages_cog
+from admin_cog import admin_cog
+from chance_cog import chance_cog
 
 
-bot = commands.Bot(command_prefix='-') #Komut işaretini seçiyoruz
-bot.remove_command('help') #Discordun kendi help komutunu atıyoruz ki kendi help komutumuzu yaratalım.
+bot = commands.Bot(commands.when_mentioned_or('-'))
+bot.remove_command('help')
 bot.add_cog(main_cog(bot))
 bot.add_cog(music_cog(bot))
+bot.add_cog(messages_cog(bot))
+bot.add_cog(admin_cog(bot))
+bot.add_cog(chance_cog(bot))
+
+
+@bot.command(name="ping", help="Pingi kontrol eder.", pass_context=True)
+async def ping(ctx):
+    await ctx.send(f'Pong! {round(bot.latency * 100)}ms')
 
 def read_token():
     with open("token.txt","r") as f:
@@ -17,10 +29,11 @@ def read_token():
 token = read_token()
 bot.run(token)
 
+
 """
 1-)
 read_token kısmı biraz işin şovu.Herkesin discord bot tokenı kendine özel olduğu için bu kodları gizlememiz gerekiyor.
-Yoksa herkes erişebilir.
+Yoksa herkes erişebilir.    
 
 token.txt diye bi dosya oluşturup içine tokenımızı yazıyoruz.Dosya okuma metodu ile ordan da çekiyoruz tokenımızı
 
