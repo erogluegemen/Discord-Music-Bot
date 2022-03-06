@@ -49,7 +49,7 @@ class chance_cog(commands.Cog):
 
         slot = ["BAM!!", "click", "click", "click", "click", "click"]
         choice = random.choice(slot)
-        dead_messages = ["Öldün çık","Göte pamuk","Rip","Esselaaaa","Allah rahmet eylesin kanks", "Ölüyorum anlasanaa","Seç: Cennet mi Cehennem mi?"]
+        dead_messages = ["Öldün çık","Rip","Esselaaaa","Allah rahmet eylesin kanks", "Ölüyorum anlasanaa","Seç: Cennet mi Cehennem mi?"]
         survive_messages = ["Yaşıyosun(şimdilik..)", "Bugün seni öldürmeyen yaradan için naptın","Öldürmeyen Allah öldürmüyo", "Tutukluk yapan mermiydi ama ben de sende tutuklu kaldım.."]
         if choice == "BAM!!":
             await ctx.send(random.choice(dead_messages))
