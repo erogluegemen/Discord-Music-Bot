@@ -9,11 +9,38 @@
 <hr>
 &nbsp;&nbsp;&nbsp;Baktım piyasada bot kalmıyor dedim kendi botumu kendim yaparım. Hem dışarda içine ne kattıkları belli değil,hem de en iyi bot evde yaptığın bottur diye kendimi gazlaya gazlaya yapmaya başladım ve en sonunda <b>"Here we are now!".</b> <br>
 <br>
-<b>Bot genel olarak: <br></b>
-<b>* Müzik oynatabiliyor.<br></b>
-<b>* Sıraya müzik ekliyor.<br></b>
-<b>* Sırayı görüntüleyebiliyor.<br></b>
-<b>* Disconnect atıyor yani daha napsın müzik botu işte :p</b>
+
+### Bot Komutları <br>
+<hr>
+<b>Genel komutlar: </b><br>
+<b> -help -> Bütün komutları gösterir. </b><br>
+<b> -disconnect / dc -> Botu geldiği yere geri gönderir. -> Mevcut müzik sırasını görüntüler. </b><br>
+<b> -ping -> pingi kontrol eder. </b><br>
+<b> -clear -> belirtilen kadar mesajı siler.</b><br>
+<hr>
+
+<b>Müzik komutları: </b><br>
+<b> -p {şarkı adı / link} -> Youtubeda bulduğu şarkıyı açar. </b><br>
+<b> -l / list -> Mevcut müzik sırasını görüntüler. </b><br>
+<b> -s / skip -> Çalan şarkıyı atlar. </b><br>
+<b> -lyrics {şarkıcı - şarkı adı}-> Şarkının sözlerinin gösterir. </b><br>
+<hr>
+
+<b>Mesaj komutları: </b><br>
+<b> -siir -> Rastgele bir şiir verir.(Büyük ihtimal küfürlü)</b><br>
+<b> -soz -> Panky şekli şemali misali günün sözünü verir.(Küfürlü olma olasılığı var) </b><br>
+<b> -recommend ->Söylenilen filme benzer 10 film önerir.</b><br>
+<hr>
+
+<b>Şans komutları: </b><br>
+<b> -coinflip -> Yazı tura atar.</b><br>
+<b> -dice -> Zar atar.</b><br>
+<b> -rps -> Taş-Kağıt-Makas yapar.</b><br>
+<b> -rr -> Rus ruleti.</b><br>
+<b> -sor -> Merak ettiğin şeyi sor cevaplasın.</b><br>
+<hr>
+
+
 
 ### İsmi Neden Arap Şükrü? <br>
 <hr>
