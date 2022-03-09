@@ -1,7 +1,7 @@
 # DiscordMusicBot - ArapSukru
 ### Botun Hikayesi
 <hr>
-&nbsp;&nbsp;&nbsp;Arkadaşlarla sakin sakin Sea Of Thieves'de Galleon sürüyoduk ve birden discorddan en sevdiğimiz müzik botumuz(rahmetli) birden müzik çalmamaya başlamıştı ve daha sonra da kapandı.. <br>
+&nbsp;&nbsp;&nbsp;Arkadaşlarla sakin sakin Sea Of Thieves'de Galleon sürüyoduk ve birden discordda en sevdiğimiz müzik botumuz birden müzik çalmamaya başlamıştı ve daha sonra da kapandı.. <br>
 &nbsp;&nbsp;&nbsp;Daha sonra biraz araştırdık ve Youtube'un reklamları göstertmeden müzikleri oynatması nedeniyle bu botların kapatılmasını istemiş.Kendince haklı sebepleri olabilir ama biz oyun oynarken arkada bi chill <b><i>He's pirate çalsın</i></b> isterdik yani... <br>
 &nbsp&nbsp&nbsp;Sonuç olarak tek tek kapanıyor hepsi.Kapanmayan da kapanacaktır büyük ihtimal.
 
