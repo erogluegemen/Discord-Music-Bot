@@ -1,13 +1,13 @@
 # DiscordMusicBot - ArapSukru
 ### Botun Hikayesi
 <hr>
-&nbsp;&nbsp;&nbsp;Arkadaşlarla sakin sakin Sea Of Thieves'de Galleon sürüyoduk ve birden discordda en sevdiğimiz müzik botumuz birden müzik çalmamaya başlamıştı ve daha sonra da kapandı.. <br>
-&nbsp;&nbsp;&nbsp;Daha sonra biraz araştırdık ve Youtube'un reklamları göstertmeden müzikleri oynatması nedeniyle bu botların kapatılmasını istemiş.Kendince haklı sebepleri olabilir ama biz oyun oynarken arkada bi chill <b><i>He's pirate çalsın</i></b> isterdik yani... <br>
-&nbsp&nbsp&nbsp;Sonuç olarak tek tek kapanıyor hepsi.Kapanmayan da kapanacaktır büyük ihtimal.
+&nbsp;&nbsp;&nbsp;Arkadaşlarla sakin sakin Sea Of Thieves'de Galleon sürüyoduk ve birden discordda en sevdiğimiz müzik botumuz müzik çalmamaya başlamıştı ve daha sonra da kapandı.. <br>
+&nbsp;&nbsp;&nbsp;Daha sonra biraz araştırdık ve Youtube'un reklamları göstertmeden müzikleri oynatması nedeniyle bu botların kapatılmasını istemiş. Kendince haklı sebepleri olabilir ama biz başka gemilere saldırırken arkada bi <b><i>He's pirate çalsın</i></b> isterdik yani... <br>
+
 
 ### Sonra Noldu? <br>
 <hr>
-&nbsp;&nbsp;&nbsp;Baktım piyasada bot kalmıyor dedim kendi botumu kendim yaparım. Hem dışarda içine ne kattıkları belli değil,hem de en iyi bot evde yaptığın bottur diye kendimi gazlaya gazlaya yapmaya başladım ve en sonunda <b>"Here we are now!".</b> <br>
+&nbsp;&nbsp;&nbsp;Baktım piyasada bot kalmıyor dedim kendi botumu kendim yaparım. Hem dışarda içine ne kattıkları belli değil hem de en iyi bot evde yaptığın bottur diye kendimi gazlayarak yapmaya başladım ve en sonunda yaptım. <br>
 <br>
 
 ### Bot Komutları <br>
@@ -30,6 +30,7 @@
 <b> -siir -> Rastgele bir şiir verir.(Büyük ihtimal küfürlü)</b><br>
 <b> -soz -> Panky şekli şemali misali günün sözünü verir.(Küfürlü olma olasılığı var) </b><br>
 <b> -recommend ->Söylenilen filme benzer 10 film önerir.</b><br>
+<b> -hatirlat ->Belirttiğiniz dakika sonra sizi pingleyerek anımsatmasını istediğiniz mesajı yazar.</b><br>
 <hr>
 
 <b>Şans komutları: </b><br>
