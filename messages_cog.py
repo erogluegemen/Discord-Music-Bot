@@ -52,3 +52,11 @@ class messages_cog(commands.Cog):
         await ctx.send(corr_df.head(10))
 
         print("Film önerildi..")
+
+          # Hatırlatıcı
+    @commands.command(name="hatirlat", help="hatırlatır.", pass_context=True)
+    async def hatirlat(self, ctx, time: int, *, msg):
+        await s(time * 60)  # (saniye * 60)
+        for i in range(5):
+            await (ctx.send("{}, {} !!!".format(msg, ctx.author.mention)))
+            i += 1
