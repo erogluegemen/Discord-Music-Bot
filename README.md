@@ -14,7 +14,7 @@
 <hr>
 <b>Genel komutlar: </b><br>
 <b> -help -> Bütün komutları gösterir. </b><br>
-<b> -disconnect / dc -> Botu geldiği yere geri gönderir. -> Mevcut müzik sırasını görüntüler. </b><br>
+<b> -disconnect / dc -> Botu geldiği yere geri gönderir. </b><br>
 <b> -ping -> pingi kontrol eder. </b><br>
 <b> -clear -> belirtilen kadar mesajı siler.</b><br>
 <hr>
