@@ -42,17 +42,10 @@
 <hr>
 
 
-
 ### İsmi Neden Arap Şükrü? <br>
 <hr>
 &nbsp;&nbsp;&nbsp; Belli bir sebebi yok aslında.Bir önceki botumuz rahmetli olmadan önce ismini Arap Şükrü yapmıştık şakasına.Bu bot da bu mirası devam ettirmeli diye düşündüm.<br>
 <b>İsim önerilerine açıktır zaten kendi botunuzu oluşturucağınız için isim koyma kısmı sizde ama </b><i>"bu şehir beni boğuyor..."</i>
-
-### Geliştirme Sırasında Bir Anı <br>
-<hr>
-Tarih 18.09.2021 Saat gecenin 2.08'i.Botu durmadan teste sokuyorum.Test kanalında milyon milyar tane <b>-play</b> komutu<br>(o zamanlar -p değil -playdi komut). Birden bot ses kanalına katıldı ve ilk çaldığı şarkı <b><i>"Sezen Aksu-Küçüğüm"</i></b> oldu.Bot bağıra bağıra "Küçüğüm, daha çok küçüğüm bu yüzden bütün hatalarım" diyodu.Aşırı mutlu olmuştum.Duygulana duygulana kod yazmıştım.Bu da böyle bi anıydı.
-<hr>
-
 
 
 ### Fotoğraflar <br>
